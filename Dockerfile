@@ -1,0 +1,1 @@
+FROM dockercfg/ezvnc:latest
